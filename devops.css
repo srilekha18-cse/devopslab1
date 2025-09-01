@@ -3,7 +3,6 @@ body {
     background-color: #f0f2f5;
     padding: 20px;
 }
-
 .form-container {
     max-width: 600px;
     margin: auto;
@@ -61,4 +60,5 @@ button[type="submit"] {
 button[type="reset"] {
     background-color: #f44336;
     color: white;
+
 }
